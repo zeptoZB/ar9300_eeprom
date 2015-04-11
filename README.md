@@ -1,6 +1,6 @@
 # ar9300_eeprom
 
-Pemoved project
+Removed project
 _______________
 
 Information is everything!
